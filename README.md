@@ -19,4 +19,3 @@ A 1.8.9 mod for Minecraft that allows you to toggle messages that you don't want
 - Bedwars Upgrades Shop Bought Messages
 - Bedwars Shop Not Enough Resources Messages
 
-### Download: https://github.com/Zenyiar/zenyiars_messagehider_mod/releases/download/1.0/1.8.9.v1.0.Zenyiar.s.MessageHider.jar
