@@ -22,10 +22,10 @@ To get started, use /messagehiderconfig or /mhc in-game to open the GUI and acce
 
 <br />
 <center>
-  <img src="images/general_category.png" width=640 height=360 />
-  <img src="images/friends_category.png" width=640 height=360 />
-  <img src="images/guilds_category.png" width=640 height=360 />
-  <img src="images/lobbies_category.png" width=640 height=360 />
-  <img src="images/bedwars_category.png" width=640 height=360 />
-  <img src="images/about_category.png" width=640 height=360 />
+  <img src="images/general_category.png" width=320 height=180 />
+  <img src="images/friends_category.png" width=320 height=180 />
+  <img src="images/guilds_category.png" width=320 height=180 />
+  <img src="images/lobbies_category.png" width=320 height=180 />
+  <img src="images/bedwars_category.png" width=320 height=180 />
+  <img src="images/about_category.png" width=320 height=180 />
 </center>
