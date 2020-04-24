@@ -20,6 +20,7 @@ To get started, use /messagehiderconfig or /mhc in-game to open the GUI and acce
 - Bedwars Upgrades Shop Bought Messages
 - Bedwars Shop Not Enough Resources Messages
 
+<br />
 <center>
   <img src="images/general_category.png" width=640 height=360 />
   <img src="images/friends_category.png" width=640 height=360 />
