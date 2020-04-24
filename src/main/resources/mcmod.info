@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zenyiars_hypixel_message_hider",
+  "name": "Zenyiar's Message Hider",
+  "description": "Be able to toggle chat messages that you don't want to see on Hypixel.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Zenyiar"],
+  "credits": "Sk1erLLC, for giving us the Modcore API to use.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
