@@ -21,6 +21,25 @@ public class MessageHiderConfig extends Vigilant
     )
     public static boolean hideUseRejoinCommand = false;
 
+    @Property(
+        type = PropertyType.SWITCH,
+        name = "Hide Dashes",
+        description = "Hide the long dashes Hypixel sends arround every type of message.",
+        category = "General",
+        subcategory = "General"
+    )
+    public static boolean hideHypixelDashes = false;
+
+    // Parties
+    @Property(
+        type = PropertyType.SWITCH,
+        name = "Hide Party Invites",
+        description = "Hide the party invite messages that people send you.",
+        category = "Parties",
+        subcategory = "Invites"
+    )
+    public static boolean hidePartyInvite = false;
+
     // Friends
     @Property(
         type = PropertyType.SWITCH,
@@ -48,6 +67,15 @@ public class MessageHiderConfig extends Vigilant
         subcategory = "Chat"
     )
     public static boolean hideFriendMessages = false;
+
+    @Property(
+        type = PropertyType.SWITCH,
+        name = "Hide Friend Requests",
+        description = "Hide friend requests that people send you!",
+        category = "Friends",
+        subcategory = "Chat"
+    )
+    public static boolean hideFriendRequests = false;
 
     // Guilds
     @Property(
