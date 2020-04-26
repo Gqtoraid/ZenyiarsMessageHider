@@ -5,12 +5,16 @@ To get started, use /messagehiderconfig or /mhc in-game to open the GUI and acce
 
 ### My mod allows you to toggle:
 - Use /rejoin to Rejoin Messages
+- Those really long dashes
 
 - Game Starts in Counter
+
+- Party Invites
 
 - Friend Join Messages
 - Friend Leave Messages
 - Friend Messages
+- Friend Requests
 
 - Guild Member Join Messages
 - Guild Member Leave Messages
@@ -24,6 +28,7 @@ To get started, use /messagehiderconfig or /mhc in-game to open the GUI and acce
 <br />
 <center>
   <img src="images/general_category.png" width=320 height=180 />
+  <img src="images/parties_category.png" width=320 height=180 />
   <img src="images/friends_category.png" width=320 height=180 />
   <img src="images/guilds_category.png" width=320 height=180 />
   <img src="images/lobbies_category.png" width=320 height=180 />
