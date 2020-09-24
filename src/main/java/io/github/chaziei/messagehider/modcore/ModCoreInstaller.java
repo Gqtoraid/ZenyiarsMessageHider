@@ -1,4 +1,4 @@
-package io.github.zenyiar.messagehider.modcore;
+package io.github.chaziei.messagehider.modcore;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
@@ -32,7 +32,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * Created by Sk1er, used by Zenyiar
+ * Created by Sk1er, used by Chazi
  */
 public class ModCoreInstaller {
 
