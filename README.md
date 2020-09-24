@@ -1,4 +1,4 @@
-# Zenyiar's MessageHider Mod (1.8.9)
+# Hypixel's MessageHider Mod (1.8.9)
 A 1.8.9 mod for Minecraft that allows you to toggle messages that you don't want to see on the Hypixel Network!
 <br />
 To get started, use /messagehiderconfig or /mhc in-game to open the GUI and access all the toggles.
