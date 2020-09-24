@@ -13,9 +13,9 @@ buildscript {
 }
 apply plugin: 'net.minecraftforge.gradle.forge'
 
-version = "1.0"
-group = "io.github.zenyiar.messagehider" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "MessageHider"
+version = "1.2"
+group = "io.github.chaziei.messagehider" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "HypixelMessageHider"
 
 sourceCompatibility = targetCompatibility = 1.8
 compileJava.options.encoding = 'UTF-8'
@@ -58,7 +58,7 @@ processResources {
 
 jar {
     manifest {
-        attributes "FMLCorePlugin": "io.github.zenyiar.messagehider.modcore.FMLLoadingPlugin",
+        attributes "FMLCorePlugin": "io.github.chaziei.messagehider.modcore.FMLLoadingPlugin",
                 "ModSide": "CLIENT",
                 "FMLCorePluginContainsFMLMod": "Yes, yes it does"
     }
