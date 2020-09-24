@@ -1,4 +1,4 @@
-package io.github.zenyiar.messagehider;
+package io.github.chaziei.messagehider;
 
 import club.sk1er.mods.core.ModCore;
 import club.sk1er.mods.core.command.ModCoreCommand;
@@ -9,7 +9,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by Zenyiar
+ * Created by Chazi
  */
 public class CommandMessageHiderConfig extends ModCoreCommand {
     @Override
