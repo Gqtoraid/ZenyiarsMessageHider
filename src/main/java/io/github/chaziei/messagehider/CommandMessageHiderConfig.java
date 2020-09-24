@@ -29,7 +29,7 @@ public class CommandMessageHiderConfig extends ModCoreCommand {
 
     @Override
     public void processCommand(ICommandSender sender, String[] args) throws CommandException {
-        ModCore.getInstance().getGuiHandler().open(ZenyiarsMessageHider.messageHiderConfig.gui());
+        ModCore.getInstance().getGuiHandler().open(HypixelMessageHider.messageHiderConfig.gui());
     }
 
     @Override
