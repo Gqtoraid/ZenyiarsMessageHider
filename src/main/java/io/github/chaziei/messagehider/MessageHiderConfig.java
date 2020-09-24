@@ -1,4 +1,4 @@
-package io.github.zenyiar.messagehider;
+package io.github.chaziei.messagehider;
 
 import club.sk1er.vigilance.Vigilant;
 import club.sk1er.vigilance.data.Property;
@@ -7,7 +7,7 @@ import club.sk1er.vigilance.data.PropertyType;
 import java.io.File;
 
 /**
- * Created by Zenyiar
+ * Created by Chazi
  */
 public class MessageHiderConfig extends Vigilant 
 {
@@ -128,7 +128,7 @@ public class MessageHiderConfig extends Vigilant
     @Property(
         type = PropertyType.SWITCH,
         name = "MessageHider Information",
-        description = "§bAuthor: Zenyiar\n§aVersion: v" + Reference.VERSION + " - " + Reference.VERSION_RELEASE_DATE + "\n§6Credits: Sk1erLLC, for giving us the Modcore API to use.",
+        description = "§bAuthor: " + Reference.AUTHOR + "\n§aVersion: v" + Reference.VERSION + " - " + Reference.VERSION_RELEASE_DATE + "\n§6Credits: Sk1erLLC, for giving us the Modcore API to use.",
         category = "About",
         subcategory = "About"
     )
