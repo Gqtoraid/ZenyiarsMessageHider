@@ -1,6 +1,6 @@
-package io.github.zenyiar.messagehider;
+package io.github.chaziei.messagehider;
 
-import io.github.zenyiar.messagehider.modcore.ModCoreInstaller;
+import io.github.chaziei.messagehider.modcore.ModCoreInstaller;
 import net.minecraft.client.Minecraft;
 import net.minecraftforge.client.ClientCommandHandler;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
@@ -13,10 +13,10 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import java.util.regex.Pattern;
 
 /**
- * Created by Zenyiar
+ * Created by Chazi
  */
 @Mod(modid = Reference.MODID, version = Reference.VERSION)
-public class ZenyiarsMessageHider 
+public class HypixelMessageHider 
 {
     public static MessageHiderConfig messageHiderConfig;
 
