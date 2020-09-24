@@ -1,4 +1,4 @@
-package io.github.zenyiar.messagehider.modcore;
+package io.github.chaziei.messagehider.modcore;
 
 import net.minecraft.launchwrapper.Launch;
 import net.minecraftforge.common.ForgeVersion;
@@ -8,7 +8,7 @@ import java.util.Map;
 import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin.MCVersion;
 
 /**
- * Created by Sk1er, used by Zenyiar
+ * Created by Sk1er, used by Chazi
  */
 @MCVersion(ForgeVersion.mcVersion)
 public class FMLLoadingPlugin implements IFMLLoadingPlugin {
